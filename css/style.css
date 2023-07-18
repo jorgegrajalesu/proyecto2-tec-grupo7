@@ -15,3 +15,7 @@
     color: var(--enlace);
     font-weight: bold;
 }
+
+.nav-link:hover{
+    color: #10bce7;
+}
