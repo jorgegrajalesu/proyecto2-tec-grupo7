@@ -1,5 +1,6 @@
 :root{
     --encabezado:#0A417F;
+    --enlace:#fff;
 }
 
 #logo{
@@ -8,4 +9,9 @@
 
 #menu{
     background-color:var(--encabezado) !important;
+}
+
+.nav-link{
+    color: var(--enlace);
+    font-weight: bold;
 }
