@@ -1,8 +1,11 @@
+:root{
+    --encabezado:#0A417F;
+}
 
 #logo{
     width: 75%;
 }
 
 #menu{
-    background-color:#0A417F !important;
+    background-color:var(--encabezado) !important;
 }
