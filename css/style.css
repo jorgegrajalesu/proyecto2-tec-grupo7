@@ -19,3 +19,8 @@
 .nav-link:hover{
     color: #10bce7;
 }
+
+.alto-img{
+    height: 595px !important;
+    padding-top: 75px !important;
+}
