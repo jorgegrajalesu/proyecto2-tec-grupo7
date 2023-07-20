@@ -34,3 +34,14 @@
 .nav-link.active:hover{
     color: #53adee !important;
 }
+
+/* novedades */
+#novedades{
+    background-color:#000000;
+}
+
+#novedades .titulo{
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
