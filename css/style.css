@@ -24,3 +24,13 @@
     height: 610px !important;
     padding-top: 75px !important;
 }
+
+.nav-link.active{
+    color: #d8e51b !important;
+    font-weight: bold !important;
+    
+}
+
+.nav-link.active:hover{
+    color: #53adee !important;
+}
