@@ -49,3 +49,14 @@ body{
     text-align: center;
     color: #fff;
 }
+
+/* sección videos */
+
+#videos{
+    background-color: #fff;
+}
+
+#videos .titulo{
+    width: 100%;
+    text-align: center;
+}
