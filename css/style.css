@@ -3,6 +3,10 @@
     --enlace:#fff;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 #logo{
     width: 75%;
 }
