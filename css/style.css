@@ -60,3 +60,13 @@ body{
     width: 100%;
     text-align: center;
 }
+
+
+/* footer */
+#page-footer{
+    background-color: var(--encabezado);
+}
+
+#page-footer a{
+    color: var(--enlace);
+}
