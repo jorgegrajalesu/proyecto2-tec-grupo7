@@ -87,3 +87,22 @@ body{
     grid-row-start: 1;
     padding-left: 1em;
 }
+
+.footer__menu figure{
+    width: 100%;
+    padding: 0;
+    margin-top: 10px;
+
+}
+
+.footer__logo{
+    width: 210px;
+}
+
+#page-footer .ftcontainer {
+    max-width: 1200px;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 70px 0; 
+}
