@@ -106,3 +106,13 @@ body{
     margin: 0 auto;
     padding: 70px 0; 
 }
+
+.ft-social{
+    color: #fff;
+    border-radius: 100%;
+    height: auto;
+    width: 30px;
+    display: inline-block;
+    font-size: 14px;
+    line-height: inherit;
+}
