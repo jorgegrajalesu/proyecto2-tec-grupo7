@@ -135,3 +135,20 @@ body{
     line-height:30px;
     font-size: 1.0rem;
 }
+
+.footer__link:nth-child(1){
+    border-left: 2px solid #f3d707;
+}
+.footer__link:nth-child(2){
+    border-left: 2px solid #12d608;
+}
+.footer__link:nth-child(3){
+    border-left: 2px solid #f36507;
+}
+
+.footer-credits{
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    background-color: #032247;
+}
