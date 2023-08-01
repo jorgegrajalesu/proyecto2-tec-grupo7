@@ -152,3 +152,10 @@ body{
     text-align: center;
     background-color: #032247;
 }
+
+/* pagina de contacto */
+#contacto .titulo {
+    width: 100%;
+    margin-top: 105px;
+    text-align: center;
+}
