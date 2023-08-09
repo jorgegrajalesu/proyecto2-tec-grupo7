@@ -174,3 +174,15 @@ body{
     text-align: center;
     margin-top: 115px;
 }
+/* pag de celulares */
+
+#celular .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+}
+
+/* configurar las img en celular */
+#celular img{
+    height: 600px;
+}
