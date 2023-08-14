@@ -186,3 +186,10 @@ body{
 #celular img{
     height: 600px;
 }
+
+/* simulador */
+#simulador .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+}
