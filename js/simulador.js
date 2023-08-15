@@ -19,6 +19,14 @@ function calcular() {
     // capturar el dato del producto
     producto = document.getElementById('producto').value;
 
-    
+    // validar los campos de precio y cantidad vacios o que están en cero
+    // if y else 
+    if (precio == 0 || precio == null || cantidad == null || cantidad == 0) {
+        // notificar al usuario que digite el precio y cantidad
+        alert("Digitar el precio y la cantidad");
+        
+    }else{
+        
+    }
 
 }
