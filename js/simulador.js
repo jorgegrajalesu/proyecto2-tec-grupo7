@@ -41,9 +41,13 @@ function calcular() {
        // mostrar el producto seleccionado 
        document.getElementById("valorProducto").innerHTML=producto;
       // mostrar el precio simulado por el usuario
-      document.getElementById("valorPrecio").innerHTML=precio   
-
-
+      document.getElementById("valorPrecio").innerHTML=precio 
+      // mostrar el valor total
+      document.getElementById("valorTotal").innerHTML=vt;
+      // mostrar el iva
+      document.getElementById("valorIva").innerHTML=vi;  
+    //   mostrarl total a pagar
+      document.getElementById("totalPagar").innerHTML=tp;
 
 
     }
